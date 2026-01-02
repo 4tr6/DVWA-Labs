@@ -16,4 +16,4 @@ Password: password
 Login was successful without any restriction.
 
 ## Proof
-![Bruteforce Result](images/Brute-force.png)
+![Bruteforce Result](images/Brute force.png)
