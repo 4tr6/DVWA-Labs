@@ -13,4 +13,4 @@ XSS allows attackers to execute JavaScript code in the victim’s browser throug
 A JavaScript alert was executed successfully.
 
 ## Proof
-![XSS Result](images/xss.png)
+![XSS Result](images/XSS.png)
