@@ -16,4 +16,4 @@ Password: password
 Login was successful without any restriction.
 
 ## Proof
-![Bruteforce Result](images/bruteforce.png)
+![Bruteforce Result](DVWA-Labs/images/Brute force.png)
