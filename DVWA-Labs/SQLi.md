@@ -12,4 +12,4 @@ SQL Injection vulnerability allows an attacker to manipulate database queries by
 ## Result
 All users stored in the database were displayed.
 ## Proof
-images/SQLi.png
+[SQL Injection Lab](SQLi.md)
