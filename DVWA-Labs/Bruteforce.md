@@ -4,7 +4,7 @@
 Brute Force attack attempts multiple passwords until the correct one is found.
 
 ## Steps
-
+1. Set DVWA security level to Low.
 2. Open Brute Force page.
 3. Enter the following credentials:
 Username: admin
